@@ -1,0 +1,9 @@
+.sideNav {
+  border: 1px solid black;
+  height: 90vh;
+  .nav-item {
+    margin: 2rem 0;
+    background-color: darkorange;
+    cursor: pointer;
+  }
+}
